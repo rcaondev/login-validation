@@ -16,7 +16,7 @@ This project is a form validation, with show/hide password effects, and console 
 >Here are some pictures about the page design:
 ![Clima app](https://github.com/rcaondev/login-validation/blob/main/img/screencapture-file-C-Users-rodrigo-caon-Desktop-login-index-html-2022-03-06-21_54_02.png?raw=true)
 
->![Clima app](https://github.com/rcaondev/weather_app/blob/main/preview.png?raw=true)
+>![Clima app](https://github.com/rcaondev/login-validation/blob/main/img/screencapture-file-C-Users-rodrigo-caon-Desktop-login-index-html-2022-03-06-21_54_32.png?raw=true)
 
 
 
